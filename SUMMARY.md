@@ -59,10 +59,7 @@
 * [2. Angriffsvektoren im Wireless Penetration Testing](wireless-penetration-testing/2.-angriffsvektoren-im-wireless-penetration-testing.md)
 * [3. Weitere Wireless Angriffsansätze und Tools](wireless-penetration-testing/3.-weitere-wireless-angriffsansatze-und-tools.md)
 * [4. Praktische Tipps und Hinweise](wireless-penetration-testing/4.-praktische-tipps-und-hinweise.md)
-
-***
-
-* [5. Zusammenfassung](5.-zusammenfassung.md)
+* [5. Zusammenfassung](wireless-penetration-testing/5.-zusammenfassung.md)
 
 ## Exploit-Entwicklung mit Python
 
